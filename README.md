@@ -1,11 +1,11 @@
-# 🚢 Titanic Survival Prediction App
+#  Titanic Survival Prediction App
 
 An interactive **Streamlit web application** that predicts passenger survival on the Titanic using a trained machine learning model.  
 This project covers the complete ML pipeline — from data exploration, preprocessing, model training, and evaluation to deployment on Streamlit Cloud.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This app allows users to:
 - Explore the Titanic dataset interactively
@@ -15,7 +15,7 @@ This app allows users to:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ml-streamlit-project/
 │── app.py # Main Streamlit app
 │── model.pkl # Trained ML model
@@ -25,4 +25,5 @@ ml-streamlit-project/
 │ └── train.csv # Titanic dataset
 │── notebooks/
 │ └── model_training.ipynb # Colab notebook for model training
+
 
